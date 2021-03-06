@@ -1,0 +1,29 @@
+.Item {
+    width: 20%;
+    height: 300px;
+    border: 1px solid #616161;
+    padding: 20px;
+}   
+.Id {
+    float: right;
+    color: grey;
+}
+.Name {
+    color: rgb(129, 0, 0);
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.Comment {
+    color: grey;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.Email {
+    color: red;
+    opacity: 0.5;
+    display: flex;
+    align-items: center;
+}

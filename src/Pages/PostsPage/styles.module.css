@@ -1,0 +1,26 @@
+.Item {
+    width: 20%;
+    height: 300px;
+    border: 1px solid #616161;
+    padding-left: 5px;
+    padding-right: 5px;
+}   
+.Id {
+    color: gray;
+    float: right;
+}
+.Title {
+    color: rgb(177, 0, 0);
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.Body {
+    color:gray;
+    font-size: 13px;
+}
+.Date {
+    color: gray;
+    font-size: 12px;
+    opacity: 0.7;
+    float: right;
+}

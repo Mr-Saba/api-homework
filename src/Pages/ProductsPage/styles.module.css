@@ -1,0 +1,41 @@
+.Item {
+    width: 20%;
+    height: 300px;
+    border: 1px solid #616161;
+    padding: 10px;
+} 
+.Id {
+    color: grey;
+    opacity: 0.7;
+    float: right;
+}
+.Name {
+    color: rgb(167, 50, 50);
+    font-size: 17px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.ImageArea {
+    display: flex;
+    align-items: center;
+}
+.Image {
+    margin-top: 10px;
+    width: 120px;
+    height: 120px;
+}
+.Categories {
+    padding: 20px;
+    color: red;
+    opacity: 0.5;
+    font-size: 15px;
+}
+
+.Description {
+    font-size: 11px;
+    color: grey;
+    opacity: 0.6;
+}
+.PriceArea {
+    
+}

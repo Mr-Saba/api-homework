@@ -1,0 +1,30 @@
+.Topic {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    color: #ff6b6b;
+    font-size: 40px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+.Container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70%;
+}
+
+.Link {
+    text-decoration: none;
+    margin: 30px;
+}
+
+.Button {
+    width: 120px;
+    height: 40px;
+    background-color: #ff6b6b;
+    border: none;
+    color: #d6d6d6;
+    cursor: pointer;
+}

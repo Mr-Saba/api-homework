@@ -1,0 +1,24 @@
+.Item {
+    width: 20%;
+    height: 300px;
+    border: 1px solid #616161;
+    padding: 40px;
+}   
+.Id {
+    color: grey;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+.Title {
+    color: rgb(165, 24, 24);
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.Completed {
+    margin-bottom: 30px;
+}
+
+.Date {
+    color: grey;
+    opacity: 0.6;
+}

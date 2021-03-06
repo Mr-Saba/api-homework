@@ -1,0 +1,16 @@
+.Parent {
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.BackButton {
+    font-size: 30px;
+    width: 400px;
+    height: 80px;
+    background-color: #ff6b6b;
+    border: none;
+    color: #d6d6d6;
+    cursor: pointer;
+}
